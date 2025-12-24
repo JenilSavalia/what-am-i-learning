@@ -1,9 +1,9 @@
 # what-am-i-learning
 
-- Web Socekts
+Web Socekts
 - Design a complex chat application backend using websockets
 
-- Web RTC
+Web RTC
 - implement simple 1-1 webrtc communication
 - Design omagle with webrtc
 
