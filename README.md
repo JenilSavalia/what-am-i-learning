@@ -8,7 +8,7 @@
 - Design omagle with webrtc
 
 **Client -> Server  (data transmission)**
-how backend process files sent by client (images,video,docs etx) ?  (with and withiut multer, what are headers ???)
+- how backend process files sent by client (images,video,docs etx) ?  (with and withiut multer, what are headers ???)
 - make a small project where a client uploads ( images,docs,vidoes )
 - Design file Storage service similar to google drive using ( s3 bucket , ec2 )
 
