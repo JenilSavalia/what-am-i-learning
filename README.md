@@ -1,5 +1,9 @@
 # what-am-i-learning
 
+- Database -> SQL -> https://www.youtube.com/watch?v=VWugHKeYhNk&list=PLA3GkZPtsafZj87jyyITew3oySyECQ4tS 
+- PRISMA + POSTGRES => Harkirat Bootcamp
+
+
 **Web Socekts**
 - Design a complex chat application backend using websockets
 
