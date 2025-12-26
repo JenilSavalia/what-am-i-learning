@@ -1,5 +1,13 @@
 # what-am-i-learning
 
+- design popular scalable apps
+  - 1. Design a scalable ticket booking app (BookMyShow)
+  - 2. Design a scalable blog application (Medium)
+  - 3. Design a ride booking application (UBER)
+  - read case studies and build such scalable things.....................
+ 
+  - Cold email companies with resumes etc.......... in langchain
+
 - Database -> SQL -> https://www.youtube.com/watch?v=VWugHKeYhNk&list=PLA3GkZPtsafZj87jyyITew3oySyECQ4tS 
 - PRISMA + POSTGRES => Harkirat Bootcamp
 
