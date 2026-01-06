@@ -1,6 +1,7 @@
 # what-am-i-learning
 
 - design popular scalable apps
+  - 0. Design a highly scalable online Judge (ex. Leetcode) 
   - 1. Design a scalable ticket booking app (BookMyShow)
   - 2. Design a scalable blog application (Medium)
   - 3. Design a ride booking application (UBER)
